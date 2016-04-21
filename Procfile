@@ -1,0 +1,1 @@
+web: gunicorn HerokuHelloWorld.wsgi:application
