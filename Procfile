@@ -1,1 +1,1 @@
-web: gunicorn HerokuHelloWorld.wsgi:application --setting=settings
+web: gunicorn HerokuHelloWorld.wsgi:application
